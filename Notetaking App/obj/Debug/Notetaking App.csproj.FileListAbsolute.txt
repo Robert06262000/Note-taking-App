@@ -1,0 +1,10 @@
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\bin\Debug\Notetaking App.exe.config
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\bin\Debug\Notetaking App.exe
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\bin\Debug\Notetaking App.pdb
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\obj\Debug\Notetaking App.csprojAssemblyReference.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\obj\Debug\Notetaking_App.Form1.resources
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\obj\Debug\Notetaking_App.Properties.Resources.resources
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\obj\Debug\Notetaking App.csproj.GenerateResource.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\obj\Debug\Notetaking App.csproj.CoreCompileInputs.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\obj\Debug\Notetaking App.exe
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Notetaking App\obj\Debug\Notetaking App.pdb
